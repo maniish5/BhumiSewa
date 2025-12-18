@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1099037676556",
+    "project_id": "bhumisewa-eda52",
+    "storage_bucket": "bhumisewa-eda52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099037676556:android:f4e7c449c44a444bc94a29",
+        "android_client_info": {
+          "package_name": "com.example.bhumisewa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvZ8-3Xa_N3aNmWV-eeZnmO4LnO0VqtBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
